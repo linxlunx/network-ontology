@@ -1,12 +1,12 @@
 Simple Networkx Network Ontology (with data sample from twitter).
 
 Modules:
-1. json
-2. networkx
-3. matplotlib
-4. itertools
+<br/>1. json
+<br/>2. networkx
+<br/>3. matplotlib
+<br/>4. itertools
 
 How To:
-$ python ontology.py
+<br/>$ python ontology.py
 
 You can view the graph image at http://blog.bermain.net/utid.jpeg
